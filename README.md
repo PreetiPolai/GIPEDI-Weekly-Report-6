@@ -1,4 +1,3 @@
-![MicrosoftTeams-image](https://user-images.githubusercontent.com/71027537/123293679-d3e44b80-d531-11eb-98f9-064533e737e2.png)
 # GIPEDI-Weekly-Report-6
 
 ##### NAME : PREETI POLAI
