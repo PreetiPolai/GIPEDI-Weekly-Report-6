@@ -1,3 +1,4 @@
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/71027537/123293679-d3e44b80-d531-11eb-98f9-064533e737e2.png)
 # GIPEDI-Weekly-Report-6
 
 ##### NAME : PREETI POLAI
@@ -22,7 +23,8 @@
 
 <p align = "justify">In the android application - 'Stride,' I have implemented the Room for the three significant sensors - Accelerometer, Magnetometer and Gyroscope. In the application, a separate database has been created for each of these sensors. Each recorded data consists of the Date of capture, timestamp, sensor values measured in [X, Y, Z] coordinates and the total net reading of the sensor. The recorded data is being stored in SQL tables. I have increased the data acquisition rate to 100hz, which is near about 6000 readings in 1min.</p>
 
-![MicrosoftTeams-image](C:\Users\AsusVivoBook\Downloads\MicrosoftTeams-image.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/71027537/123293755-e1013a80-d531-11eb-8a5f-717c4edf2c50.png)
+
 
 <center>Fig : Representation of the accelerometer data stored</center>
 
